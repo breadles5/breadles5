@@ -1,4 +1,4 @@
-![breadles](./breadles.webp)
+<img src="./breadles.webp" width="600">
 
 ## About me
 I am currently a developer in high school.   
