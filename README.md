@@ -1,16 +1,14 @@
-## Hi there 👋
+# About me
 
-<!--
-**breadles5/breadles5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently a developer in high school.   
+I mostly develop random stuff here for Tosu! overlays and other stuff.   
+I like most things computer related.   
 
-Here are some ideas to get you started:
+You can find my overlay's here:
+ - [custom hit error bar](https://github.com/breadles5/customHitErrorBar)
+ - [mania now playing](https://github.com/breadles5/maniaNowPlaying)
+ - [custom hits counter with chart](https://github.com/breadles5/mania-hit-count-and-chart/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ I also do graphic design for osu! skinning.
+
+ I'll (probably) add my skins here later as well.
